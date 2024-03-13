@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikal Dhawane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A data enthusiast navigating the digital realm as a Data Analyst and Scientist🚀
+</h3>
 
 - 👨‍💻 All of my projects are available at [Hotel Rating Classification](Hotel Rating Classification)
 
